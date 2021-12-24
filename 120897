@@ -1,0 +1,129 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+
+body {
+    color : white;
+    background-color:black;
+}
+
+#img img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    border : ;
+    margin : 20px;
+    float: left;
+}
+
+#name {
+    font-family: 'Noto Sans', sans-serif;
+    float:right;
+    text-align: center;
+    margin : 18px 100px 20px 20px;
+}
+
+#clear {
+    clear: both;
+}
+
+hr {
+    padding:0;
+    border-color: #FFA500 ;
+    border-radius: 30px;
+    height:0%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+/* Personal Information */
+
+.left-div{
+    font-family: 'Noto Sans', sans-serif
+    width:30%;
+    float:left;
+    margin:20px 10px 20px 20px;
+}
+
+.right-div{;
+....font-family: Arial;
+    width:60%;
+    float:right;
+    margin: 20px 10px 20px 0px;
+}
+
+/* Contact */
+
+.footer-div1 {
+    margin: 20px 10px 10px 10px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif
+}
+
+#con-mail {
+    text-align: center;
+    margin : 25px 0px 10px 0px;
+}
+
+#con-FB {
+    text-align: center;
+    margin : 15px 0px 10px 0px;
+}
+
+#con-insta {
+    text-align: center;
+    margin : 15px 0px 10px 0px;
+}
+
+#m-number {
+    text-align: center;
+    margin : 15px 0px 30px 0px;
+}
+
+
+#mail{
+    text-decoration: none;
+    color : black ;
+    background-color:#FFA500;
+    padding: 2px;
+    opacity : 0.5;
+    border-radius: 5px;
+}
+
+#FB{
+    text-decoration: none;
+    color : black ;
+    background-color:#FFA500;
+    padding: 2px;
+    opacity : 0.5;
+    border-radius: 5px;
+}
+
+#insta{
+    text-decoration: none;
+    color : black ;
+    background-color:#FFA500;
+    padding: 2px;
+    opacity : 0.5;
+    border-radius: 5px;
+}
+
+#number{
+    text-decoration: none;
+    color : black ;
+    background-color:#FFA500;
+    padding: 2px;
+    opacity : 0.5;
+    border-radius: 5px;
+}
+
+marquee {
+    font-family: 'Noto Sans', sans-serif;
+    color:#FFA500;
+    margin:20px 0px 20px 0px;
+}

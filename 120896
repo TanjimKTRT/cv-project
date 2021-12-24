@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>CV</title>
+        <link rel="stylesheet" href="practice.css">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="co1">
+
+            <header>
+                <div id="img">
+                    <img src="image.jpg">
+                </div>
+                <div id="name">
+                    <b>Curriculum Vitae<br>
+                    of<br>
+                    Tanjim Rahman</b>
+                </div>
+            </header>
+                <div id="clear"></div>
+            <hr>
+            
+            
+            <main>
+                <section id="personal-information">
+                    
+                    <div class="left-div">
+                        <b>Personal<br> Infomation</b>
+                    </div>
+                        
+                    <div class="right-div">
+                        <ul>
+                            <li>Address: Kaliagar, Dhamrai, Dhaka (Permanent & Present)</li><br>
+                            <li>Date of birth : 11th October, 2005</li><br>
+                            <li>Nationality : Bangladeshi (By birth)</li><br>
+                            <li>Religion : Islam</li><br>
+                            <li>Marital status : Unmarried </li><br>
+                            <li>Blood group : B-Positive </li>
+                        </ul>
+                    </div>
+                </section>
+                
+                <div id="clear"></div>
+                <hr>
+                
+                <section id="Skills">
+                    <div class="left-div">
+                        <b>Skills<br> </b>
+                    </div>
+                    
+                    <div class="right-div">
+                        <ul>
+                            <li>
+                                Programming Languages :<br>
+                                  i. Python<br>
+                                  ii. Javascript
+                            </li><br>
+                            <li>
+                                Other Languages : <br>
+                                  i. HTML5<br>
+                                  ii. CSS3<br>
+                                  iii. Bootstrap 
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+                
+                <div id="clear"></div>
+                <hr>
+            </main>
+
+            <footer>
+                <section id="Contact">
+                    
+                    <div class="footer-div1">
+                        <b>Contact</b>
+                    </div>
+                    
+                    <div id="con-mail">
+                        Mail &emsp;&emsp; &nbsp;: <a id="mail" href="mailto:rahmantanjim.ktrt@gmail.com"> Tanjim Rahman</a>
+                    </div>
+                    
+                    <div id="con-FB">
+                        Facebook &nbsp;: <a id="FB" href="https://www.facebook.com/tanjim.ktrt">Tanjim Rahman</a>
+                    </div>
+                    <div id="con-insta">
+                        Instagram : <a id="insta" href="https://www.instagram.com/tanjim.ktrt/">Tanjim Rahman</a>
+                    </div>
+                    <div id="m-number">
+                        Number &emsp;: <a id="number" href="tel:01798216122">01798216122</a>&nbsp;&nbsp;&nbsp;
+                    </div>
+                </section>
+            
+            <hr>
+            <marquee>...Thank you very much...</marquee>
+            </footer>
+            
+
+        </div>
+    </body>
+</html>
